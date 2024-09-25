@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
-	<img src="img/Shell.png" height="190" width="455">
+	<img src="img/Shell.png" height="250" width="455">
 </p>
 <hr>
 
