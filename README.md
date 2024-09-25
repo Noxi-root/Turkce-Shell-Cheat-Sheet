@@ -1,9 +1,37 @@
-﻿
-![Shell Cheatsheet](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05df8cc2-4413-4a7c-93c7-dbf7991b18a7/ddzkgj0-fe2edca4-57ab-4dce-8899-ce94182a9160.png/v1/fill/w_1280,h_449,q_80,strp/shell_cheatsheet_by_markdownimgmn_ddzkgj0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00NDkiLCJwYXRoIjoiXC9mXC8wNWRmOGNjMi00NDEzLTRhN2MtOTNjNy1kYmY3OTkxYjE4YTdcL2RkemtnajAtZmUyZWRjYTQtNTdhYi00ZGNlLTg4OTktY2U5NDE4MmE5MTYwLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.VYVfzUImBjcz2_b-_RRdfmOOdZju6u8gKFE-BOtQaD4)
+﻿[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/Noxi-root/Turkce-Shell-Cheat-Sheet?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
-Bu repo shell komutlarının türkçe açıklamalarını içerir. Ekleme için pull request'lere tamamiyle açıktır.
+<hr>
+<p align="center">
+	<img src="img/Shell.png" height="190" width="455">
+</p>
+<hr>
 
-### Temel Komutlar
+>❓ Yardım almak için **__Discord__** üzerinden ulaşabilirsiniz: **n_oxxi**
+<br></br>
+>⭐ git'nin neredeyse tüm önemli konularını ele almaya çalıştım bu rehber size yardımcı olduysa bana destek olmak için `Star` butonuna tıklamanız yeterlidir.
+<br></br>
+>😊 Arkadaşlarınıza **__PAYLAŞMAKTAN__** çekinmeyin
+
+---
+
+<h1 align="center">Shell Cheat Sheet</h1>
+
+| Index | Index |
+|-------|-------|
+| [Temel Komutlar](#temel-komutlar) | [If Kullanımı](#if-kullanımı) |
+| [Veri Manipülasyonu](#veri-manipülasyonu) | [While Kullanımı](#while-kullanımı) |
+| [Ağ](#ağ) | [](#) |
+| [Bash Söz Dizimi](#bash-söz-dizimi) | [For-Do Kullanımı](#for-do-kullanımı) |
+| [Değişkenler](#değişkenler) | [](#) |
+| [Değişkenleri Yazdırmak](#değişkenleri-yazdırmak) | [Komut Satırı Bayrakları:](#komut-satırı-bayrakları) |
+| [Cümle İçinde Yazdırmak](#cümle-içinde-yazdırmak) | [Komutların çıktılarını nasıl saklıyoruz?](#komutların-çıktılarını-nasıl-saklıyoruz) |
+| [Bilinmesi Gereken Bazı Değişkenler](#bilinmesi-gereken-bazı-değişkenler) | [pipe | operatörü](#pipe--operatörü) |
+| [Aritmetik İşlemler](#aritmetik-işlemler) | [Jokerler](#jokerler) |
+| [Aritmetik Kıyaslamalar](#aritmetik-kıyaslamalar) | [Sıralama Yapmak](#sıralama-yapmak)
+| [Dosya İzinleri](#dosya-izinleri) | [Sistem Bilgisi](#sistem-bilgisi)
+
+
+## Temel Komutlar
 
 `whoami`: Bulunan oturumun sahibi olan kullanıcıyı yazdırır.
 
