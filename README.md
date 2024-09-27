@@ -20,15 +20,15 @@
 |-------|-------|
 | [Temel Komutlar](#temel-komutlar) | [If Kullanımı](#if-kullanımı) |
 | [Veri Manipülasyonu](#veri-manipülasyonu) | [While Kullanımı](#while-kullanımı) |
-| [Ağ](#ağ) | [](#) |
-| [Bash Söz Dizimi](#bash-söz-dizimi) | [For-Do Kullanımı](#for-do-kullanımı) |
-| [Değişkenler](#değişkenler) | [](#) |
-| [Değişkenleri Yazdırmak](#değişkenleri-yazdırmak) | [Komut Satırı Bayrakları:](#komut-satırı-bayrakları) |
-| [Cümle İçinde Yazdırmak](#cümle-içinde-yazdırmak) | [Komutların çıktılarını nasıl saklıyoruz?](#komutların-çıktılarını-nasıl-saklıyoruz) |
-| [Bilinmesi Gereken Bazı Değişkenler](#bilinmesi-gereken-bazı-değişkenler) | [pipe operatörü](#pipe--operatörü) |
-| [Aritmetik İşlemler](#aritmetik-işlemler) | [Jokerler](#jokerler) |
-| [Aritmetik Kıyaslamalar](#aritmetik-kıyaslamalar) | [Sıralama Yapmak](#sıralama-yapmak)
-| [Dosya İzinleri](#dosya-izinleri) | [Sistem Bilgisi](#sistem-bilgisi)
+| [Ağ](#ağ) | [For-Do Kullanımı](#for-do-kullanımı) |
+| [Bash Söz Dizimi](#bash-söz-dizimi) | [Komut Satırı Bayrakları:](#komut-satırı-bayrakları) |
+| [Değişkenler](#değişkenler) | [Komutların çıktılarını nasıl saklıyoruz?](#komutların-çıktılarını-nasıl-saklıyoruz) |
+| [Değişkenleri Yazdırmak](#değişkenleri-yazdırmak) | [pipe operatörü](#pipe--operatörü) |
+| [Cümle İçinde Yazdırmak](#cümle-içinde-yazdırmak) | [Sıralama Yapmak](#sıralama-yapmak)
+| [Bilinmesi Gereken Bazı Değişkenler](#bilinmesi-gereken-bazı-değişkenler) | [Jokerler](#jokerler) |
+| [Aritmetik İşlemler](#aritmetik-işlemler) | [Sistem Bilgisi](#sistem-bilgisi)
+| [Aritmetik Kıyaslamalar](#aritmetik-kıyaslamalar) | [Dosya İzinleri](#dosya-izinleri) | 
+
 
 
 ## Temel Komutlar
