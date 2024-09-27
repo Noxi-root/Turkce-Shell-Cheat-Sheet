@@ -25,7 +25,7 @@
 | [Değişkenler](#değişkenler) | [](#) |
 | [Değişkenleri Yazdırmak](#değişkenleri-yazdırmak) | [Komut Satırı Bayrakları:](#komut-satırı-bayrakları) |
 | [Cümle İçinde Yazdırmak](#cümle-içinde-yazdırmak) | [Komutların çıktılarını nasıl saklıyoruz?](#komutların-çıktılarını-nasıl-saklıyoruz) |
-| [Bilinmesi Gereken Bazı Değişkenler](#bilinmesi-gereken-bazı-değişkenler) | [pipe | operatörü](#pipe--operatörü) |
+| [Bilinmesi Gereken Bazı Değişkenler](#bilinmesi-gereken-bazı-değişkenler) | [pipe operatörü](#pipe--operatörü) |
 | [Aritmetik İşlemler](#aritmetik-işlemler) | [Jokerler](#jokerler) |
 | [Aritmetik Kıyaslamalar](#aritmetik-kıyaslamalar) | [Sıralama Yapmak](#sıralama-yapmak)
 | [Dosya İzinleri](#dosya-izinleri) | [Sistem Bilgisi](#sistem-bilgisi)
